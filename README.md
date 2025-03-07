@@ -136,10 +136,5 @@ You can deploy this bot using:
 - **Heroku** (Use `Procfile` for deployment)
 - **Railway.app**
 
----
 
-## License
-This project is **open-source**. Feel free to use and modify it.
-
----
 
